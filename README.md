@@ -40,5 +40,5 @@ request body:
     "contactphoneno": 6459845794
 }
 
-resoonse will upadated contact list sucessfully
+response will updated contact list sucessfully
 
